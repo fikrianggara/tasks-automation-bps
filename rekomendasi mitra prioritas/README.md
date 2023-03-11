@@ -8,7 +8,7 @@ kamu membutuhkan 3 folder untuk menjalankan kodingan ini, yaitu :
 
 untuk ngejalanin kodingan ini, kamu perlu menginstall package yang digunakan, dengan cara:
 
-1. masuk ke folder yang ada file requirement.txt
+1. masuk ke folder yang ada file `requirement.txt`
 2. jalankan perintah :
    `pip install requirement.txt`
 3. kamu bisa ubah kodingan di `processing_mitra_prioritas.ipynb` sesuai kebutuhan
