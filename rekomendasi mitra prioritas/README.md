@@ -1,10 +1,12 @@
 ## kodingan untuk membuat rekomendasi mitra
 
-### kamu membutuhkan 3 folder untuk menjalankan kodingan ini, yaitu :
+### kamu perlu 3 folder untuk menjalankan kodingan ini, yaitu :
 
 - `data pendukung`, di sini isinya file excel hasil eksportan dari simitra bps
 - `hasil`, output rekomendasi mitra
 - `master data`, master data seperti master sls, master kecamatan dsb (saya menggunakan master kecamatan, contoh format bisa dilihat di folder master data)
+
+jika belum ada, silahkan dibuat terlebih dahulu foldernya
 
 ### kamu perlu python 3.10 ke atas
 
